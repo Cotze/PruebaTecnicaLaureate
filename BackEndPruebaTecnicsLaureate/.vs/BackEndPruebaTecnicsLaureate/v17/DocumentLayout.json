@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\source\\PruebaTecnicaLaureate\\BackEndPruebaTecnicsLaureate\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4646FB7F-F02D-49AA-9336-329420EF5563}|BackEndPruebaTecnicsLaureate.csproj|d:\\source\\pruebatecnicalaureate\\backendpruebatecnicslaureate\\queries\\employees\\qemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4646FB7F-F02D-49AA-9336-329420EF5563}|BackEndPruebaTecnicsLaureate.csproj|solutionrelative:queries\\employees\\qemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QEmployee.cs",
+              "DocumentMoniker": "D:\\source\\PruebaTecnicaLaureate\\BackEndPruebaTecnicsLaureate\\Queries\\Employees\\QEmployee.cs",
+              "RelativeDocumentMoniker": "Queries\\Employees\\QEmployee.cs",
+              "ToolTip": "D:\\source\\PruebaTecnicaLaureate\\BackEndPruebaTecnicsLaureate\\Queries\\Employees\\QEmployee.cs",
+              "RelativeToolTip": "Queries\\Employees\\QEmployee.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwFgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:06:22.993Z",
+              "EditorCaption": ""
             }
           ]
         }
