@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackEndPruebaTecnicsLaureate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb8ac3c52d9c240d0aa443f24e892a76c591f93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6ede2516b8588149d15caa7063968c7c429397")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackEndPruebaTecnicsLaureate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackEndPruebaTecnicsLaureate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
