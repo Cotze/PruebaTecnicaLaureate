@@ -33,7 +33,7 @@ namespace BackEndPruebaTecnicsLaureate.Controllers
             return Ok(addBeneficiary);
         }
 
-        [HttpPost("PutBeneficiary")]
+        [HttpPut("PutBeneficiary")]
         public async ValueTask<ActionResult<VMGeneric>> PutBeneficiary(string id, [FromBody] UPBeneficiary beneficiary)
         {
             BBeneficiaries response = new();
